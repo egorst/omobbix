@@ -29,3 +29,7 @@
 ```
   $ mkstore -wrl $HOME/.wallet -modifyCredential c01 zabbix
 ```
+* connect using credential from wallet
+```
+  $ sqlplus /@c01
+```
